@@ -374,7 +374,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 5
 --- !u!1 &28289324
 GameObject:
   m_ObjectHideFlags: 0
@@ -427,7 +427,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 2
 --- !u!1 &99710580
 GameObject:
   m_ObjectHideFlags: 0
@@ -942,7 +942,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 8
 --- !u!1 &171308964
 GameObject:
   m_ObjectHideFlags: 0
@@ -1074,7 +1074,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 1
 --- !u!1 &260207322
 GameObject:
   m_ObjectHideFlags: 0
@@ -1127,7 +1127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 6
 --- !u!1 &285391616
 GameObject:
   m_ObjectHideFlags: 0
@@ -1726,7 +1726,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 7
 --- !u!1 &405609730
 GameObject:
   m_ObjectHideFlags: 0
@@ -1877,7 +1877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 8
 --- !u!224 &455450217
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1952,7 +1952,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 3
 --- !u!1 &508268523
 GameObject:
   m_ObjectHideFlags: 0
@@ -2664,7 +2664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 4
 --- !u!1 &570165084
 GameObject:
   m_ObjectHideFlags: 0
@@ -3077,7 +3077,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 1
 --- !u!1 &608075138
 GameObject:
   m_ObjectHideFlags: 0
@@ -3691,7 +3691,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 7
 --- !u!1 &851400881
 GameObject:
   m_ObjectHideFlags: 0
@@ -4931,7 +4931,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 4
 --- !u!1 &1272074603
 GameObject:
   m_ObjectHideFlags: 0
@@ -4984,7 +4984,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 3
 --- !u!1 &1299885972
 GameObject:
   m_ObjectHideFlags: 0
@@ -5900,7 +5900,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 5
 --- !u!1 &1610097628
 GameObject:
   m_ObjectHideFlags: 0
@@ -7331,7 +7331,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 6
 --- !u!1 &1962941269
 GameObject:
   m_ObjectHideFlags: 0
@@ -7686,7 +7686,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotItem: {fileID: 0}
-  slotNumber: 0
+  slotNumber: 2
 --- !u!1 &2100765070
 GameObject:
   m_ObjectHideFlags: 0
